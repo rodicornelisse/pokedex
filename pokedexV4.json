@@ -1,5 +1,5 @@
 {
-    "titel": "Kies een pokemon om de evoluties te bekijken!",
+    "titel": "Kies een pokemon om verdere details te bekijken!",
     "auteur": "Hendriks Jansen",
     "gepubliceerd": 2017,
     "active": true,
@@ -18,7 +18,7 @@
             "afb_url": "http://assets22.pokemon.com/assets/cms2/img/pokedex/full/007.png",
             "beschrijving": "Squirtle's shell is not merely used for protection. The shell's rounded shape and the grooves on its surface help minimize resistance in water, enabling this Pokémon to swim at high speeds.  Squirtle's shell is not merely used for protection. The shell's rounded shape and the grooves on its surface help minimize resistance in water, enabling this Pokémon to swim at high speeds.",
             "evoluties": [
-        "Wartortle" + "http://assets22.pokemon.com/assets/cms2/img/pokedex/full/007.png",
+        "Wartortle",
         "Blastoise"
       ]
     },
